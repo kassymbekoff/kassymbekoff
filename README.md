@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kassymbekoff
-- 👀 I’m interested in programming on Java
+- 👀 I’m interesting in programming on Java
 - 🌱 I’m currently learning to develop high load backend applications on Spring Boot
 - 📫 How to reach me - https://kassymbekoff.github.io
 
